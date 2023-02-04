@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mamon Aburawi</h1>
 <h3 align="center">Android developer from Libya</h3>
 
-<img align="right"  width="400" src="https://images.app.goo.gl/Gpc1udgK3nZAuNgu6">
+<!-- <img align="right"  width="400" src="https://images.app.goo.gl/Gpc1udgK3nZAuNgu6"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamonaburawi&label=Profile%20views&color=0e75b6&style=flat" alt="mamonaburawi" /> </p>
 
